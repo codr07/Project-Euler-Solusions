@@ -3,7 +3,7 @@ Project Euler solutions collected by CODR , LuckyToilet and others.
 
 **LuckyToilet :** [![Luck Toilet](https://img.shields.io/badge/Lucky--Toilet-green?logo=github&logoColor=black&label=Solutions&labelColor=white)](https://github.com/luckytoilet/projecteuler-solutions)
 
-**CODR :** [![CODR](https://img.shields.io/badge/CODR-yellow?logo=github&logoColor=black&label=Solutions&labelColor=white)](https://github.com/codr07/Project-Euler-Solusions/solutions.md)
+**CODR :** [![CODR](https://img.shields.io/badge/CODR-yellow?logo=github&logoColor=black&label=Solutions&labelColor=white)](https://github.com/codr07/Project-Euler-Solusions/blob/main/solutions.md)
 
 **Forum :** [![Forum](https://img.shields.io/badge/Forum-orange?logo=livechat&logoColor=black)](https://www.tapatalk.com/groups/eulersolutionsfr/)
 
