@@ -1,7 +1,10 @@
 ## **Warning - This site contains spoilers. Please close this page immediately if you wish to solve the problems yourself.**
 
-* **Solutions**:  
-* **Maintained by**: codracademy69@gmail.com
+**Solutions**:  **CODR :** [![CODR](https://img.shields.io/badge/CODR-yellow?logo=github&logoColor=black&label=Solutions&labelColor=white)](https://github.com/codr07/Project-Euler-Solusions/blob/main/solutions.md)
+
+**Forum :** [![Forum](https://img.shields.io/badge/Forum-orange?logo=livechat&logoColor=black)](https://www.tapatalk.com/groups/eulersolutionsfr/)
+
+**Maintained by**: codracademy69@gmail.com
 
 ### What is Project Euler?
 
