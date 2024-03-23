@@ -31,7 +31,7 @@ Projecteuler-solutions provides merely a list of answers -- that is, it does not
 
 With the numerical answers, you have access to the official forums, in which you can access dozens of solutions in numerous different programming languages, often using several very different approaches. By unlocking this valuable resource for you, Projecteuler-solutions hopes that you will be able to get more out of Project Euler.
 
-For a thorough exposition of solutions, I recommend [Project Nayuki](https://www.nayuki.io/page/project-euler-solutions), [Lucky Toilet](https://github.com/codracademy/project_euler/blob/master/Solutions.md) which solves about 500 of the problems using Java, Python, Mathematica, and Haskell.
+For a thorough exposition of solutions, I recommend [Sankha Saha (CODR)](https://www.nayuki.io/page/project-euler-solutions), [Lucky Toilet](https://github.com/codracademy/project_euler/blob/master/Solutions.md) which solves about 500 of the problems using Java, Python, Mathematica, and Haskell.
 
 ### What about cheating?
 
