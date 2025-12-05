@@ -1,7 +1,6 @@
 <!-- PROJECT SHIELDS -->
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Project%20Euler-Solutions-blue?style=for-the-badge&logo=python" /></a>
-  <a href="#"><img src="https://img.shields.io/github/stars/codr07/project-euler-multilang?style=for-the-badge" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Progress-🚀%20In%20Progress-orange?style=for-the-badge" /></a>
 </p>
 
