@@ -24,6 +24,25 @@ Each solution focuses on:
 
 ## 📂 Structure
 
+ProjectEuler-Multilang/
+├── Problem_001/
+│ ├─ C/
+│ ├─ CPP/
+│ ├─ CSharp/
+│ ├─ Java/
+│ ├─ JavaScript/
+│ ├─ Python/
+│ ├─ Haskell/
+│ ├─ Mathematica/
+│ ├─ Kotlin/
+│ ├─ Rust/
+│ ├─ Swift/
+│ ├─ Go/
+│ └─ Julia/
+├── Problem_002/
+├── ...
+└── README.md
+
 
 ---
 
