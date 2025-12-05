@@ -24,7 +24,7 @@ Each solution focuses on:
 
 ## 📂 Structure
 
-ProjectEuler-Multilang/
+```ProjectEuler-Multilang/
 ├── Problem_001/
 │ ├─ C/
 │ ├─ CPP/
@@ -42,7 +42,7 @@ ProjectEuler-Multilang/
 ├── Problem_002/
 ├── ...
 └── README.md
-
+```
 
 ---
 
