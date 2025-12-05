@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "haskell": "^0.4.1"
+  }
+}
