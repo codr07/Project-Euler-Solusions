@@ -94,7 +94,6 @@ If this helps you solve more math problems,
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/codr07?style=social" />
-  <img src="https://img.shields.io/github/stars/codr07/project-euler-multilang?style=social" />
 </p>
 
 ---
