@@ -1,3 +1,7 @@
+# 
+# Shared code for solutions to Project Euler problems
+# Copyright (c) Sankha Saha. All rights reserved.
+
 from itertools import product, permutations
 
 N = 12
