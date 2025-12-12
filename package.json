@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "haskell": "^0.4.1"
+    "haskell": "^0.4.1",
+    "numpy": "^0.0.1"
   }
 }
